@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -86,8 +85,8 @@
   <input name="signature"       type="hidden"  value="5ce296b77a4dc6fce925829c4ed1739b"  >
   <input name="test"            type="hidden"  value="0" >
   <input name="buyerEmail"      type="hidden"  value="cliente1@gmail.com" >
-  <input name="responseUrl"     type="hidden"  value="" >
-  <input name="confirmationUrl" type="hidden"  value="" >
+  <input name="responseUrl"     type="hidden"  value=" https://fuyai07.github.io/ejemplo/respuesta" >
+  <input name="confirmationUrl" type="hidden"  value=" https://fuyai07.github.io/ejemplo/confirmar" >
   <input name="Submit"          type="submit"  value="Enviar" >
 </form>
 
